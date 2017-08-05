@@ -1,0 +1,40 @@
+body{
+  background:#f5f7f9;
+  font-family: sans-serif;
+  padding: 0 0 100px;
+}
+
+.header{
+  position: relative;
+  height:60px;
+  background: #2a2f54;
+  color: #fff;
+}
+
+.header h3{
+  line-height: 60px;
+}
+
+.header a{
+  color: #fff;
+  text-decoration: none;
+}
+
+.wrap{
+  width:97%;
+  margin:auto;
+}
+
+h1,h2,h3,h4{
+  margin:0;
+}
+
+.c_field{
+  width:75%;
+  margin:70px auto 0;
+  padding:50px;
+  background: #fff;
+  border-radius:5px;
+  border: 1px solid #e5e9ec;
+  color:#282a37;
+}
